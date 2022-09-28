@@ -15,7 +15,6 @@ class Display{
         }
         this.advancedSignos = {
             raiz: '√'
-            //Agregar mas funciones
         }
     }
 
